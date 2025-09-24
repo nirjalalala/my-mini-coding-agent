@@ -19,8 +19,8 @@ This project demonstrates how a Large Language Model (LLM) can function as a sim
 ## 📦 Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/agentic-ai-editor.git
-   cd agentic-ai-editor
+   git clone https://github.com/nirjalalala/my-mini-coding-agent.git
+   cd my-mini-coding-agent
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -28,11 +28,6 @@ This project demonstrates how a Large Language Model (LLM) can function as a sim
    python -m venv venv
    source venv/bin/activate   # Linux/Mac
    venv\Scripts\activate      # Windows
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
    ```
 
 4. **Set up Gemini API key**  
